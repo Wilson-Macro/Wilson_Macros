@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, brake shoe pad 18400          <TAB>")
+End Sub

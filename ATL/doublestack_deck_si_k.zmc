@@ -1,0 +1,10 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("//si do not stack or s<BACKSPACE>")
+SendHostKeys ("double deck<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("do not stack or s<BACKSPACE>")
+SendHostKeys ("double deck<NEWLINE>")
+End Sub

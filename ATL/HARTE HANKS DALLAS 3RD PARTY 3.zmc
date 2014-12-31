@@ -1,0 +1,14 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("HARTE HANKS LOGISTICS<TAB>")
+SendHostKeys ("PO BOX 700367<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("DALLAS <ERASEEOF>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("TX75370<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

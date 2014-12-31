@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, scaffolding 033520-00         <TAB>")
+End Sub

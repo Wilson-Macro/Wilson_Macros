@@ -1,0 +1,17 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("EXEL <TAB>")
+SendHostKeys ("C/O GITI TIRE USA I<BACKSPACE>")
+SendHostKeys ("LTD<NEWLINE>")
+SendHostKeys ("2250 PALMETTO AV<TAB>")
+SendHostKeys ("RELD<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("DLANDS<TAB>")
+SendHostKeys ("CA937<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("2374<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<UP>")
+End Sub

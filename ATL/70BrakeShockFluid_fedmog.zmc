@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, brake shock hydro fld 30040   <TAB>")
+End Sub

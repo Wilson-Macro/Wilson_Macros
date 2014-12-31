@@ -1,0 +1,6 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("150, BASKEET/GIFTWAR<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("ARE GRP #22210<TAB>")
+End Sub

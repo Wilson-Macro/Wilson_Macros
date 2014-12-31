@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("65, veh wheel brk lining blk199<BACKSPACE>")
+SendHostKeys ("2215<TAB>")
+End Sub

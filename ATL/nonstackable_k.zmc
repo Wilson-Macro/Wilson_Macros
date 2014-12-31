@@ -1,0 +1,9 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("//si non stackablr<BACKSPACE>")
+SendHostKeys ("e<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("non stackable<NEWLINE>")
+End Sub

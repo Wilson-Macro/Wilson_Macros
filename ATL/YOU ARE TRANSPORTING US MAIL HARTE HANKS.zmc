@@ -1,0 +1,13 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("YOU ARE TRANSPORTING US MAIL<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("APPOI<BACKTAB>")
+SendHostKeys ("               APPOINTMENT# <NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<UP>")
+End Sub

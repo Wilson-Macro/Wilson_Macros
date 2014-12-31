@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("100, work benches 033500-00       <TAB>")
+End Sub

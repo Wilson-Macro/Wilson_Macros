@@ -1,0 +1,15 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("//SLC<NEWLINE>")
+SendHostKeys ("'<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<UP>")
+SendHostKeys ("<ERASEEOF>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("//SW")
+End Sub

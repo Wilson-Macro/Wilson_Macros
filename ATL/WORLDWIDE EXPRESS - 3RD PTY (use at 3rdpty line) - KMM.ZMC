@@ -1,0 +1,17 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("worldwide express<TAB>")
+SendHostKeys ("#400<NEWLINE>")
+SendHostKeys ("2828 routh street<TAB>")
+SendHostKeys ("fa<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("dallas<TAB>")
+SendHostKeys ("tx75201<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>w")
+Text = MsgBoxGetInput("MISC NUMBER REQUIRED (wwe #) enter number after the w ")
+SendHostKeys(Text)
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

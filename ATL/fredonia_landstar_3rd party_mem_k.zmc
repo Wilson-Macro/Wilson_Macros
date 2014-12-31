@@ -1,0 +1,18 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("fredonia<TAB>")
+SendHostKeys ("c/o landstar logii<BACKSPACE>")
+SendHostKeys ("stics<NEWLINE>")
+SendHostKeys ("13410 sutton park dr s<TAB>")
+SendHostKeys ("jacksonville<TAB>")
+SendHostKeys ("fl32224<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

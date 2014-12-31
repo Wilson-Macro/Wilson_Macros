@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, glue caulk tape 149610-00     <TAB>")
+End Sub

@@ -1,0 +1,9 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("drop ships require a delivery <NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("appointment pi<BACKSPACE>")
+SendHostKeys ("rior to pickup<NEWLINE>")
+End Sub

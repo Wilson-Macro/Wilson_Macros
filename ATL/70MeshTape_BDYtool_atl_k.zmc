@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, mesh tape 049795-00           <TAB>")
+End Sub

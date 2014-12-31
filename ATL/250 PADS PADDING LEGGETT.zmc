@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("250,PADS,PADDING,CUSHIONS,#14926503<TAB>")
+End Sub

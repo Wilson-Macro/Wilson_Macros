@@ -1,0 +1,12 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("ECHO IS NOT LIABLE FOR ANY<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("ACCESSORIAL CHARGES UNLESS PRE-<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("APPROVED BY ECHO OR NOTED ON BOL")
+End Sub

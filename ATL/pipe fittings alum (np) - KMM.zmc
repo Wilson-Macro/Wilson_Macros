@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("xxx, 51400 pipe fittings aluminum<TAB>")
+End Sub

@@ -1,0 +1,18 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("medline industries inc<TAB>")
+SendHostKeys ("/<BACKSPACE>")
+SendHostKeys ("c/o unyson logistics<NEWLINE>")
+SendHostKeys ("po box 7047<TAB>")
+SendHostKeys ("downers grove<TAB>")
+SendHostKeys ("il60515<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

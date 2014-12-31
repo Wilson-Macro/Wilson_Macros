@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, LABELS/LAE<BACKSPACE>")
+SendHostKeys ("BEL GUNS #153500S2<TAB>")
+End Sub

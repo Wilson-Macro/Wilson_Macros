@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, ctn paint, ltd qty 149980-03  <TAB>")
+End Sub

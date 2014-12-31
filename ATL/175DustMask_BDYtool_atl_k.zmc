@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("175, dust mask respirator134140-00<TAB>")
+End Sub

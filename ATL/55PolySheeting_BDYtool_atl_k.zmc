@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, poly sheeting 156830-00       <TAB>")
+End Sub

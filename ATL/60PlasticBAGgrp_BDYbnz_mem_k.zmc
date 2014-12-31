@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("65<BACKSPACE>")
+SendHostKeys ("0, plastic bag liner grp 20480-3 <TAB>")
+End Sub

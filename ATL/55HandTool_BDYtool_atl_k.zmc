@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, hand tools 186900-00          <TAB>")
+End Sub

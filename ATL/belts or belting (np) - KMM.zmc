@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("xxx, 23340-7 belts or belting noi<TAB>")
+End Sub

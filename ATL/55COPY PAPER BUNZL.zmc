@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, COPY PAPER OFFICE SU<BACKSPACE>")
+SendHostKeys ("PLY # 150650<TAB>")
+End Sub

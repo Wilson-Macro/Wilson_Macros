@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, copy paper office sup 150650  <TAB>")
+End Sub

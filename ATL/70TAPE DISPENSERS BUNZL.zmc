@@ -1,0 +1,9 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, D<BACKSPACE>")
+SendHostKeys ("TAPE DISPENSERS # 869<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("186900<TAB>")
+End Sub

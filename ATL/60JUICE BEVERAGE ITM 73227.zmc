@@ -1,0 +1,7 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("60, JUICE BEVBER<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("ERAGE 73227<TAB>")
+End Sub

@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("65, label gun cartridge gr153500-2<TAB>")
+End Sub

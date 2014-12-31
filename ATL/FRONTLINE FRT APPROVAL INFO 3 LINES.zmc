@@ -1,0 +1,13 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("FOR ANY ADDITIONAL A<BACKSPACE>")
+SendHostKeys ("SERVICE PLS CALL<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("FRONTLINE FREIGHT FOR APPROVAL <NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("AT: 800-243-5422.")
+End Sub

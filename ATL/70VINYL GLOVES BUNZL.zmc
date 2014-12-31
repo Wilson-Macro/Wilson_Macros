@@ -1,0 +1,6 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, VINYL GLOBE<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("VES 156600 S9<TAB>")
+End Sub

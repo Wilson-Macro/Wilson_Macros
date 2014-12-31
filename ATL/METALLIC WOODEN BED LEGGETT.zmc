@@ -1,0 +1,18 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("100, METALLIC /W<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("/WOODEN BED SPRING<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<RIGHT>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("108<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<ERASEEOF>")
+End Sub

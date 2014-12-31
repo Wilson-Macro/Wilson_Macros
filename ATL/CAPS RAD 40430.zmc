@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("XXX, CAPS RAD/GAS MISC 40430<TAB>")
+End Sub

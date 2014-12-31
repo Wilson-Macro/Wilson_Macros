@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55,PLASTIC BAGS #20480 S3<TAB>")
+End Sub

@@ -1,0 +1,9 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("150,PADS,PADDING,CUSUI<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("HIONS,#149265-0<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("04<TAB>")
+End Sub

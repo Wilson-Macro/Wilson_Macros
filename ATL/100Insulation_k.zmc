@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("100, boxes insulation 103300-02   <TAB>")
+End Sub

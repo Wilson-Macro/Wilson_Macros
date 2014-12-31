@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("60, aerosol spray 042652-00       <TAB>")
+End Sub

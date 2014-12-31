@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("85, BOX GROUP 29285S8<TAB>")
+End Sub

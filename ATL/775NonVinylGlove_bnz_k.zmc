@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("775, non vinyl gloves 49920        <TAB>")
+End Sub

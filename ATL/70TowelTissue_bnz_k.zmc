@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, towel tissue wipe 154415-2    <TAB>")
+End Sub

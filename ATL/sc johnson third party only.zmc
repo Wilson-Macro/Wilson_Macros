@@ -1,0 +1,10 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("sc johnson <TAB>")
+SendHostKeys ("c/o exel<NEWLINE>")
+SendHostKeys ("po box 16929<TAB>")
+SendHostKeys ("columbus<TAB>")
+SendHostKeys ("oh43216<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

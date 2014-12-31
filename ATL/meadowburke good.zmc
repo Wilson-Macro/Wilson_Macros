@@ -1,0 +1,17 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("py<NEWLINE>")
+SendHostKeys ("n<TAB>")
+SendHostKeys ("n<BACKTAB>")
+SendHostKeys ("<DELETE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("n<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("meadow burke decatur<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("2995 east ponce de leon<TAB>")
+SendHostKeys ("decatur<TAB>")
+SendHostKeys ("ga30030<NEWLINE>")
+End Sub

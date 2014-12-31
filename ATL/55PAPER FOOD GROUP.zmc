@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, PAPER FOOD GROUP #151500<TAB>")
+End Sub

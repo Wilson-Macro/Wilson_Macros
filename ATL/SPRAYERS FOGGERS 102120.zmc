@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("60, SPRAYERS /FOGGERS #102120<TAB>")
+End Sub

@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("60, ADHESVIES NOI # 4620 S5<TAB>")
+End Sub

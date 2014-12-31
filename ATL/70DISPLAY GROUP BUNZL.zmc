@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, DISO<BACKSPACE>")
+SendHostKeys ("PLAY GROUP # 152980<TAB>")
+End Sub

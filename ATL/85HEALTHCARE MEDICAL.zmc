@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("85, HEALTHCARE /MED <BACKSPACE>")
+SendHostKeys ("ICAL SPLY 56780<TAB>")
+End Sub

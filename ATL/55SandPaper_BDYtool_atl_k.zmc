@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, sand paper 001100-00          <TAB>")
+End Sub

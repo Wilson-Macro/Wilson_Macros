@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("85, m c assy 19160-2              <TAB>")
+End Sub

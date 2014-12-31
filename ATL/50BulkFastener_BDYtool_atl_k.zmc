@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("50, bulk fasteners 15840-00       <TAB>")
+End Sub

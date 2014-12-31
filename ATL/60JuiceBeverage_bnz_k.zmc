@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("60, juice beverage shortening 73227<TAB>")
+End Sub

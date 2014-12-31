@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70,WOODEN PRODUCTS ITM 199750<TAB>")
+End Sub

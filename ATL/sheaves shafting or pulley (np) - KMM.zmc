@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("xxx, 126880-2 sheaves shafting/pull<TAB>")
+End Sub

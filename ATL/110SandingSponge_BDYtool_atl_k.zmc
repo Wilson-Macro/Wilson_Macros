@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("110, sanding sponges 001150-00    <TAB>")
+End Sub

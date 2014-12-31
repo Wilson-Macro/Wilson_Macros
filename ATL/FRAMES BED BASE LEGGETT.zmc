@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("65, FRAMES <BACKSPACE>")
+SendHostKeys (",BED BASE, NOI KD #81320<TAB>")
+End Sub

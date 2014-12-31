@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("775, plt wgt #                    <TAB>")
+End Sub

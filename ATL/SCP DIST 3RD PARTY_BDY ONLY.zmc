@@ -1,0 +1,11 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("SCP DISTRIBUTORS LLC<ERASEEOF>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("C/O WILLIAMS & ASSOCIATES405 78TH ST <ERASEEOF>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("BLOOMINGTON<TAB>")
+SendHostKeys ("MN55420<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

@@ -1,0 +1,6 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, A<BACKSPACE>")
+SendHostKeys ("SAFETY HARNESSES # 1522200<LEFT>")
+SendHostKeys ("-00<TAB>")
+End Sub

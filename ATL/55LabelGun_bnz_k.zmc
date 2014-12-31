@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, label, label gun 153500-2     <TAB>")
+End Sub

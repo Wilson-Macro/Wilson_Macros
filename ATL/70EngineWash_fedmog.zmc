@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, engn<BACKSPACE>")
+SendHostKeys ("ine wash gasket>>15,194120-9 <TAB>")
+End Sub

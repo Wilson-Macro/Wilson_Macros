@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("xxx, 128000 pumps power noi or part<TAB>")
+End Sub

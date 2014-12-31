@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("85, steer gear assembly 197<BACKSPACE>")
+SendHostKeys ("670     <TAB>")
+End Sub

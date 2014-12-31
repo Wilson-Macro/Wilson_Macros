@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("250, foam cup contnr dnnrw157320-3 <TAB>")
+End Sub

@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("775, BALL ROLL BEAR BUSH 114820   <TAB>")
+End Sub

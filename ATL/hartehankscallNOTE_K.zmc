@@ -1,0 +1,16 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("if you cannot deliver by delivery<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("date immediately call<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("800.3<BACKSPACE>")
+SendHostKeys ("234.487x193<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+End Sub

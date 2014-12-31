@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("**emergency ph# 800.535.5053**<NEWLINE>")
+End Sub

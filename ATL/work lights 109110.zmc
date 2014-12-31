@@ -1,0 +1,8 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("85, work lis<BACKSPACE>")
+SendHostKeys ("ghts generators<LEFT>")
+SendHostKeys (" #1091100<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("0 <TAB>")
+End Sub

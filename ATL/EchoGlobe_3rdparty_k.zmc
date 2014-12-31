@@ -1,0 +1,15 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("echo global logistics<NEWLINE>")
+SendHostKeys ("600 w chicago ave ste 725chicago<TAB>")
+SendHostKeys ("il60654<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

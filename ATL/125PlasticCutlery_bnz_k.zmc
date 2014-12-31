@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("125, plastic cutlery 156600-5     <TAB>")
+End Sub

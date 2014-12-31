@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("60, plastic food group 30480-3  <TAB>")
+End Sub

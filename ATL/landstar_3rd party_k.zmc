@@ -1,0 +1,17 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("landstar global log<TAB>")
+SendHostKeys ("c/o att ltl payalbe<NEWLINE>")
+SendHostKeys ("13410 sutton park dr s<TAB>")
+SendHostKeys ("jacksonville<TAB>")
+SendHostKeys ("fl32224<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

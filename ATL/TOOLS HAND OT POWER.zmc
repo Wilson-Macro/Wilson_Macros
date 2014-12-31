@@ -1,0 +1,13 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("XXX, TOOLS <BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("H<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("HAND TOOLS O/T POW<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("WR 186900<TAB>")
+End Sub

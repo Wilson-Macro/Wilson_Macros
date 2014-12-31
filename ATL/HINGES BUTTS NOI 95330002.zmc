@@ -1,0 +1,14 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("5, HINGES/BUTT<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("/BUTTS NOI IRON<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("N/STL 95300-0<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("<LEFT>")
+SendHostKeys ("02<TAB>")
+End Sub

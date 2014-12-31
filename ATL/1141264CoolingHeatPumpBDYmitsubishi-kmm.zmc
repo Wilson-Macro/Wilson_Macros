@@ -1,0 +1,10 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("925, 1141264, coolio<LEFT>")
+SendHostKeys ("ng/heat pump/ind<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("unit/otdr unit<UP>")
+SendHostKeys ("<TAB>")
+End Sub

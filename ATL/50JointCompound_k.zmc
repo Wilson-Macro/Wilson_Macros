@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("50, joint compound 034040-00      <TAB>")
+End Sub

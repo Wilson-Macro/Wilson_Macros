@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("50, floor sweep cmp 50170-2       <TAB>")
+End Sub

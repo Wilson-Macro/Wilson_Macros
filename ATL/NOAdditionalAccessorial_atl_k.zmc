@@ -1,0 +1,8 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("no additional services requested<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("or authorized<NEWLINE>")
+End Sub

@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, WHEELS CASTERS PARTS 157238<TAB>")
+End Sub

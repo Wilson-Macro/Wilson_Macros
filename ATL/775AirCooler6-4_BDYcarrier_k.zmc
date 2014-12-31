@@ -1,0 +1,14 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("775, air coolers or air conditioner<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("noi it 114126-4<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("                       :ods order<UP>")
+SendHostKeys ("<UP>")
+SendHostKeys ("<TAB>")
+End Sub

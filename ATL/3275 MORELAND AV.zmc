@@ -1,0 +1,11 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("3275 MORELAND AV<TAB>")
+SendHostKeys ("CONLEY<TAB>")
+SendHostKeys ("GA30288<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+End Sub

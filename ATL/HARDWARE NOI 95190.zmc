@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, HARDWARE NOI # 95190<TAB>")
+End Sub

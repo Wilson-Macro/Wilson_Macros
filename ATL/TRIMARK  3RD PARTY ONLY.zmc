@@ -1,0 +1,10 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("TRIMARK C/O GTS<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("5876 DARROW RD<TAB>")
+SendHostKeys ("HUDSON<TAB>")
+SendHostKeys ("OH44236<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

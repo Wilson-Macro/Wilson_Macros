@@ -1,0 +1,12 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<UP>")
+SendHostKeys ("DLS WORLDWIDE<NEWLINE>")
+SendHostKeys ("10000<BACKSPACE>")
+SendHostKeys (" WINDHAM PKWY<TAB>")
+SendHostKeys ("BOLINGBROOK<TAB>")
+SendHostKeys ("IL60490<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+End Sub

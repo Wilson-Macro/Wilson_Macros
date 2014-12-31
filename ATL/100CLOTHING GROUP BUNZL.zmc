@@ -1,0 +1,6 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("100, CO<BACKSPACE>")
+SendHostKeys ("LOTHING GROUP %<BACKSPACE>")
+SendHostKeys ("#49795<TAB>")
+End Sub

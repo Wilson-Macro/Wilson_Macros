@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("70, INSECTICIDES # 60000<TAB>")
+End Sub

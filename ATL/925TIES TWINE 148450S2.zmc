@@ -1,0 +1,7 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("925, TIES/TWINE/RUB<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys (" ITEM 148450 S2<TAB>")
+End Sub

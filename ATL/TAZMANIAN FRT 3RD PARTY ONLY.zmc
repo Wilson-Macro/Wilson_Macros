@@ -1,0 +1,13 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<TAB>")
+SendHostKeys ("%TAZMANIAN FRT SYSTEMS<NEWLINE>")
+SendHostKeys ("PO BOX 811090<TAB>")
+SendHostKeys ("CLEVL<BACKSPACE>")
+SendHostKeys ("ELAND <TAB>")
+SendHostKeys ("OH44181<NEWLINE>")
+SendHostKeys ("<UP>")
+SendHostKeys ("<UP>")
+SendHostKeys ("<BACKTAB>")
+SendHostKeys ("<ERASEEOF>")
+End Sub

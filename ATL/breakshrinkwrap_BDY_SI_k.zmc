@@ -1,0 +1,8 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("//si do not break shrinkwrap<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("do not break shrinkwrap<NEWLINE>")
+End Sub

@@ -1,0 +1,6 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("925, EQUIPMENT MACHINERY GROUP <TAB>")
+SendHostKeys ("1<LEFT>")
+SendHostKeys (" ")
+End Sub

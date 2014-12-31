@@ -1,0 +1,9 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("85, machine system or device<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("data processing or comp 116030-8  <UP>")
+SendHostKeys ("<TAB>")
+End Sub

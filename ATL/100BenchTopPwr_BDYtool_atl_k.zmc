@@ -1,0 +1,4 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("100, bench top power tl 131670-02 <TAB>")
+End Sub

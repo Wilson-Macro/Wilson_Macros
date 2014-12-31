@@ -1,0 +1,6 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("XXX, COUPLINGS BRASS/BRONZE O/<BACKSPACE>")
+SendHostKeys ("<BACKSPACE>")
+SendHostKeys ("54450<TAB>")
+End Sub

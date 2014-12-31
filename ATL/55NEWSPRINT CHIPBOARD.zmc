@@ -1,0 +1,5 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("55, NEWSPRINT/S<BACKSPACE>")
+SendHostKeys ("CHIPBOARD #151150<TAB>")
+End Sub

@@ -1,0 +1,11 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("osd issues 888 275 7649 or<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("nestleosandd@unysonlogistics.com<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("<TAB>")
+End Sub

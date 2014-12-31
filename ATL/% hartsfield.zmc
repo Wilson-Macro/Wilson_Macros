@@ -1,0 +1,16 @@
+Sub ZMain()
+Dim Text, ret
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("py<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<NEWLINE>")
+SendHostKeys ("<TAB>")
+SendHostKeys ("% hartsfield whse<NEWLINE>")
+SendHostKeys ("4200 n commerce dr<TAB>")
+SendHostKeys ("atlanta<TAB>")
+SendHostKeys ("ga30344<ENTER>")
+ret = WaitForHostUpdate(10)
+SendHostKeys ("<ENTER>")
+ret = WaitForHostUpdate(10)
+End Sub
